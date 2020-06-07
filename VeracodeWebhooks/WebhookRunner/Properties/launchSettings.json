@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WebhookRunner": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "commandLineArgs": "agent1"
+    }
+  }
+}
